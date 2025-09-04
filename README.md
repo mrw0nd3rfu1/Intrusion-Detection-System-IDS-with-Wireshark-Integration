@@ -135,9 +135,9 @@ python main.py --data nsl_kdd_cleaned.csv --model CNN --epochs 10
 streamlit run ui_with_wireshark.py
 
 # 3. In the web interface:
-#    - Go to "Live Capture" tab
-#    - Click "Generate Traffic" (simulation mode)
-#    - Click "Analyze Captured Traffic"
-#    - See real-time intrusion detection results!
+- Go to "Live Capture" tab
+- Click "Generate Traffic" (simulation mode)
+- Click "Analyze Captured Traffic"
+- See real-time intrusion detection results!
 ________________________________________
 
